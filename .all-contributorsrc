@@ -117,7 +117,61 @@
       "contributions": [
         "financial"
       ]
+    },
+    {
+      "login": "laurence-myers",
+      "name": "Laurence Dougal Myers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6336048?v=4",
+      "profile": "http://www.laurencemyers.com.au",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Beretta1979",
+      "name": "Sébastien Van Bruaene",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10073962?v=4",
+      "profile": "https://github.com/Beretta1979",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "Uzlopak",
+      "name": "Aras Abbasi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5059100?v=4",
+      "profile": "https://github.com/Uzlopak",
+      "contributions": [
+        "code",
+        "test",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "rsaryev",
+      "name": "Saryev Rustam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70219513?v=4",
+      "profile": "https://github.com/rsaryev",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "mikicho",
+      "name": "Michael Solomon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11459632?v=4",
+      "profile": "https://github.com/mikicho",
+      "contributions": [
+        "maintenance",
+        "code",
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }

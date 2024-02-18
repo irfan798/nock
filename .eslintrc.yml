@@ -25,10 +25,14 @@ overrides:
 
 rules:
   # TODO These are included in standard and should be cleaned up and turned on.
-  node/no-deprecated-api: 'off' # we still make heavy use of url.parse
+  n/no-deprecated-api: 'off' # we still make heavy use of url.parse
+
+  # TODO remove once we drop support for Node 10
+  node/no-deprecated-api: 'off'
 
   # Nock additions.
   strict: ['error', 'safe']
+  no-console: 'error'
   no-loop-func: 'error'
   no-var: 'error'
   prefer-const: 'error'
