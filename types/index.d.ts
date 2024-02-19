@@ -230,6 +230,7 @@ declare namespace nock {
     enable_reqheaders_recording?: boolean
     logging?: (content: string) => void
     use_separator?: boolean
+    record_unmatched?: boolean
   }
 
   interface Definition {
